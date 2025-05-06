@@ -74,7 +74,7 @@ nav ul li a:hover::before{
 
 .portada {
     font-family: Arial, sans-serif;
-    background-image: url('assets/imagenes/aether-lumine-official-wallpaper-genshin-impact.jpg');
+    background-image: url('/assets/imagenes/aether-lumine-official-wallpaper-genshin-impact.jpg');
     background-size: cover;
     background-position: center;
     min-height: 100vh;
@@ -125,7 +125,7 @@ nav ul li a:hover::before{
 }
 
 .fondo-mondstadt{
-    background-image: url(assets/imagenes/mondstadt-fondo.jpg);;
+    background-image: url('/assets/imagenes/mondstadt-fondo.jpg');
     background-size: cover;
     background-position: center;
     height: 350px;
@@ -181,7 +181,7 @@ nav ul li a:hover::before{
 }
 
 .fondo-liyue{
-    background-image: url(assets/imagenes/liyue-fondo.jpg);;
+    background-image: url('/assets/imagenes/liyue-fondo.jpg');;
     background-size: cover;
     background-position: center;
     height: 350px;
@@ -240,7 +240,7 @@ nav ul li a:hover::before{
 }
 
 .fondo-inazuma{
-    background-image: url(assets/imagenes/inazuma-fondo.jpg);;
+    background-image: url('/assets/imagenes/inazuma-fondo.jpg');;
     background-size: cover;
     background-position: center;
     height: 360px;
@@ -298,7 +298,7 @@ nav ul li a:hover::before{
 }
 
 .fondo-sumeru{
-    background-image: url(assets/imagenes/sumeru-fondo.jpeg);;
+    background-image: url('/assets/imagenes/sumeru-fondo.jpeg');;
     background-size: cover;
     background-position: center;
     height: 350px;
@@ -353,7 +353,7 @@ nav ul li a:hover::before{
   }
 
 .fondo-fontaine{
-    background-image: url(assets/imagenes/fontaine-fondo.png);;
+    background-image: url('/assets/imagenes/fontaine-fondo.png');;
     background-size: cover;
     background-position: center;
     height: 350px;
@@ -407,7 +407,7 @@ nav ul li a:hover::before{
     opacity: 100%;
 }
 .fondo-natlan{
-    background-image: url(assets/imagenes/natlan-fondo.jpg);;
+    background-image: url('/assets/imagenes/natlan-fondo.jpg');;
     background-size: cover;
     background-position: center;
     height: 350px;
@@ -470,7 +470,7 @@ nav ul li a:hover::before{
     width: 100%;
     height: 240vh;
     margin: 0 auto;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.288),rgba(0,0,0,0.288)), url(assets/imagenes/arcont.webp);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.288),rgba(0,0,0,0.288)), url('/assets/imagenes/arcont.webp');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
